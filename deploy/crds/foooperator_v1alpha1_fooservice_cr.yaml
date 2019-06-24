@@ -1,0 +1,7 @@
+apiVersion: foo-operator.pablo-ruth.github/v1alpha1
+kind: FooService
+metadata:
+  name: example-fooservice
+spec:
+  # Add fields here
+  size: 3
